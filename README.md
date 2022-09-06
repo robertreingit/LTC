@@ -10,4 +10,4 @@ R for data science: https://r4ds.had.co.nz/
 
 ## Einführung in die Visualisierung mit R
 
-Nordmann, E., McAleer, P., Toivo, W., Paterson, H., & DeBruine, L. M. (2022). Data Visualization Using R for Researchers Who Do Not Use R. Advances in Methods and Practices in Psychological Science. https://doi.org/10.1177/25152459221074654
+*Nordmann, E., McAleer, P., Toivo, W., Paterson, H., & DeBruine, L. M. (2022). Data Visualization Using R for Researchers Who Do Not Use R. Advances in Methods and Practices in Psychological Science. https://doi.org/10.1177/25152459221074654*
