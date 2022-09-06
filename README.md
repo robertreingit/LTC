@@ -13,3 +13,5 @@ R programming für data science https://bookdown.org/rdpeng/rprogdatascience/ *(
 ## Einführung in die Visualisierung mit R
 
 *(Voraussetzung)*: Nordmann, E., McAleer, P., Toivo, W., Paterson, H., & DeBruine, L. M. (2022). Data Visualization Using R for Researchers Who Do Not Use R. Advances in Methods and Practices in Psychological Science. https://doi.org/10.1177/25152459221074654
+
+Healy, K. (2018). Data visualization: a practical introduction. Princeton University Press. https://socviz.co/
