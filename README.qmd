@@ -62,11 +62,12 @@ Healy, K. (2018). Data visualization: a practical introduction. Princeton Univer
 Hier dann einige Bücher welche man sich methodisch zu Herzen nehmen sollte bevor man sich in Modul 12 stürzt.
 Wie immer Kollege @robertson2013 oder der Herr @cutcliffe2012
 
+:::{.callout-important}
 ## Leistungsnachweis
 Die Note im Modul LTC12 ergibt sich aus drei Teilkomponenten.  
 - Projektpräsentation (00%)  
 -  xyz (00%)  
-
+:::
 
 ## Abgabe der Leistungen
 Bitte alle Dokumente zur benotung inklusiv Rohdaten (*.zip) in einer Email an die beiden Dozierenden [Dr. Rein](mailto:r.rein@dshs-koeln.de) und [Dr. Braunstein](mailto:braunstein@dshs-koeln.de) schicken.
