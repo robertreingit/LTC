@@ -54,7 +54,7 @@ Healy, K. (2018). Data visualization: a practical introduction. Princeton Univer
 # LTC12
 ## Readings
 Hier dann einige Bücher welche man sich methodisch zu Herzen nehmen sollte bevor man sich in Modul 12 stürzt.
-Wie immer Kollege @robertson2013 oder der 
+Wie immer Kollege @robertson2013 oder der Herr @cutcliffe2012
 
 
 # Tools
