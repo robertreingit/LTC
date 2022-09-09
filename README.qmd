@@ -34,6 +34,11 @@ license: CC BY
 ---
 
 
+:::{.callout-important}
+Sollten wir nicht auf das Format 'Book' oder website wechseln? Dann einfach ein Quarto 'Publish' befehl als GithubPages publishen 
+https://quarto.org/docs/publishing/github-pages.html
+:::
+
 
 # LTC
 Dies ist ein Repository für den Studiengang LTC für die Kurse LTC4, LTCXY und LTC12. Sie finden hier vorbereitende Materialien die als Voraussetzung angesehen werden, sowie Zusatzmaterial zum nachlesen. Soweit rechtlich möglich sind die Materialien entweder direkt verfügbar oder per Links angezeigt.  
@@ -76,13 +81,13 @@ Bitte alle Dokumente zur benotung inklusiv Rohdaten (*.zip) in einer Email an di
 
 
 # Tools 
-- Prima Convertierung von Audio/ Video in verschiedne Formate  
+- Prima Convertierung von Audio/ Video in verschiedene Formate  
 - fuer Fortgeschrittene auch mit FFMPG  
 
 
 
 ## Programmming
-- Link zum VS code
+- Link zum VS code bzw. VS codium
 - Link zu Rstudio bzw. dem neuen Namen
 
 ## Motion capture/analysis
@@ -91,7 +96,40 @@ Bitte alle Dokumente zur benotung inklusiv Rohdaten (*.zip) in einer Email an di
 - Link zum Vicon PlugIn Gait
 - Link zu
 
-## References
+# Contacts
+## Dr. Braunstein
+Contact me preferably via email. If this do not work for you try to get me on the phone in my office or show up in the lab or office during 'normal academic hours'.  
+
+Dr. Bjoern Braunstein  
+Am Sportpark Müngersdorf 6  
+50933 Cologne  
+Germany  
+<br />
+[braunstein@dshs-koeln.de](mailto:braunstein@dshs-koeln.de)  
++49(221)4982.5621  
+Building: NaWiMedi  
+Room: xxxx  
+
+
+```{r,echo=FALSE,}
+library(leaflet)
+leaflet() %>%
+  setView(lng=6.8703, lat=50.93555,zoom=15)%>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=6.8703, lat=50.93555, popup="German Sport University")%>%
+  addProviderTiles(providers$CartoDB.Positron)
+```
+
+
+## Dr. Rein
+
+## Dr. Seifritz
+
+
+
+
+
+# References
 ::: {#refs}
 :::
 
