@@ -62,16 +62,21 @@ Die Note im Modul LTC12 ergibt sich aus drei Teilkomponenten.
 -  xyz (00%)  
 
 
+## Abgabe der Leistungen
+Bitte alle Dokumente inklusiv Rohdaten an die Dr. Rein und [braunstein](mailto:braunstein@dshs-koeln.de)
 
 
 
-## 
 
-# Tools
+# Tools 
+- Prima Convertierung von Audio/ Video in verschiedne Formate  
+- fuer Fortgeschrittene auch mit FFMPG  
+
+
 
 ## Programmming
 - Link zum VS code
-- Link
+- Link zu Rstudio bzw. dem neuen Namen
 
 ## Motion capture/analysis
 - Link zu Mokka
