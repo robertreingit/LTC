@@ -92,7 +92,7 @@ Bitte alle Dokumente zur benotung inklusiv Rohdaten (*.zip) in einer Email an di
 
 ## Motion capture/analysis
 - Link zu Mokka
-- Link zu Kinovea
+- Link zu [Kinovea](https://www.kinovea.org) einem Tool mit dem Ihr ganz ohne Mühe die meisten Videoformate einsesen könnt und schon ziemlich viel an Auswertetools an die Hand bekommt. 
 - Link zum Vicon PlugIn Gait
 - Link zu
 
