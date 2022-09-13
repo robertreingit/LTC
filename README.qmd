@@ -163,6 +163,15 @@ leaflet() %>%
 ## Dr. Rein
 
 ## Dr. Seifriz
+Institut für Trainingswissenschaft und Sportinformatik\
+Abteilung 2: Kognitions- und Sportspielforschung\
+Am Sportpark Müngersdorf 6\
+50933 Köln\
+Germany\
+<br /> [seifriz\@dshs-koeln.de](mailto:seifriz@dshs-koeln.de)\
++49 221 4982-4860\
+Gebäude: NaWiMedi\
+Raum: 363
 
 # References
 
