@@ -11,8 +11,8 @@ author:
     email: r.rein@dshs-koeln.de
     affiliation: __German Sport University__ <br> Institute of Training and Computer Science
     orcid: 0000-0001-7059-5319
-  - name: Dr. Florian Seifritz
-    email: seifritz@dshs-koeln.de
+  - name: Dr. Florian Seifriz
+    email: seifriz@dshs-koeln.de
     affiliation: __German Sport University__ <br> Institute of Training and Computer Science
 abstract: hier ein wenig text hier ein wenig text hier ein wenig text hier ein wenig text hier ein wenig text hier ein wenig text hier ein wenig text hier ein wenig text hier ein wenig texthier ein wenig text hier ein wenig text hier ein wenig text hier ein wenig text hier ein wenig text.
 doi: 100.100.100.100
@@ -123,7 +123,7 @@ leaflet() %>%
 
 ## Dr. Rein
 
-## Dr. Seifritz
+## Dr. Seifriz
 
 
 
