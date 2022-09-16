@@ -1,1 +1,52 @@
- hier der test
+# Contacts {.unnumbered}
+
+## Dr. Braunstein {.unnumbered}
+Contact me preferably via email. If this do not work for you try to get me on the phone in my office or show up in the lab or office during 'normal academic hours'.
+
+_Institute of Biomechanics and Orthopaedics_\
+_Institute of Movement and Neuroscience_\
+
+Dr. Bjoern Braunstein\
+Am Sportpark Müngersdorf 6\
+50933 Cologne\
+Germany\
+<br /> [braunstein\@dshs-koeln.de](mailto:braunstein@dshs-koeln.de)\
++49(221)4982.5621\
+Building: NaWiMedi\
+Room: xxxx
+
+```{r,echo=FALSE,}
+library(leaflet)
+leaflet() %>%
+  setView(lng=6.8703, lat=50.93555,zoom=15)%>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=6.8703, lat=50.93555, popup="German Sport University")%>%
+  addProviderTiles(providers$CartoDB.Positron)
+```
+
+
+
+## Dr. Robert Rein {.unnumbered}
+_Institut für Trainingswissenschaft und Sportinformatik_\
+_Abteilung Memmert_\
+Am Sportpark Müngersdorf 6\
+50933 Köln\
+Germany\
+
+[r.rein@dshs-koeln.de](mailto:r.rein@dshs-koeln.de)\
++49 221 4982-XXXX\
+Gebäude: NaWiMedi\
+Raum: XXXX\
+
+
+## Dr. Seifriz {.unnumbered}
+_Institut für Trainingswissenschaft und Sportinformatik_\
+_Abteilung 2: Kognitions- und Sportspielforschung_\
+Am Sportpark Müngersdorf 6\
+50933 Köln\
+Germany\
+
+[seifriz\@dshs-koeln.de](mailto:seifriz@dshs-koeln.de)\
++49 221 4982-4860\
+Gebäude: NaWiMedi\
+Raum: 363

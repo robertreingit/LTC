@@ -1,1 +1,56 @@
-## Test
+## LTC-04 {.unnumbered}
+
+
+## "Erwartungen" an die R/RStudio Vorkenntnisse zu Vorlesungsbeginn
+
+##### 1. Installation von R und RStudio
+
+Video: <https://www.youtube.com/watch?v=X_Mxya2Fis0>
+
+##### 2. Erste Schritte Einführung in RStudio
+
+Video: <https://www.youtube.com/watch?v=tyvEHQszZJs>
+
+##### 3. Zusätzliche Packages installieren
+
+Video: <https://www.youtube.com/watch?v=YD8OLpvkHD8>
+
+::: {.callout-important appearance="simple"}
+## Bitte folgende Packages installieren: "tidyverse" und "ggplot2"
+:::
+
+##### 4. Grundkenntnisse in R
+
+Einführung in R: <https://methodenlehre.github.io/einfuehrung-in-R/index.html>
+
+::: {.callout-important appearance="simple"}
+## Grundlegendes Verständis der Kapitel 0 bis 2 wird erwartet.
+:::
+
+## Readings
+Healy, K. (2018). Data visualization: a practical introduction. Princeton University Press. <https://socviz.co/>
+
+Nordmann, E., McAleer, P., Toivo, W., Paterson, H., & DeBruine, L. M. (2022). Data Visualization Using R for Researchers Who Do Not Use R. Advances in Methods and Practices in Psychological Science. <https://doi.org/10.1177/25152459221074654>
+
+Peng, R.D.: R programming für data science: <https://bookdown.org/rdpeng/rprogdatascience/>
+
+Wickham, H.: R for data science: <https://r4ds.had.co.nz/>
+
+## Weitere Info-Quellen
+
+##### Tutorials zu R/RStudio (themenspezifisch)
+
+z.B. Datanovia: <https://www.datanovia.com/en/>
+
+##### Forum für Fragen zu R und anderen Programmiersprachen
+
+z.B. Stack Overflow: <https://stackoverflow.com>
+
+::: {.callout-tip appearance="simple"}
+## "Such"-Workflow
+-   Frage zu R auf englisch googeln, z.B. "r cran create random csv"
+-   In der Trefferliste nach Einträgen von "stackoverflow.com" suchen
+-   Öffnen und "clever" lesen!!
+
+Es erfordert etwas "Routine" die guten von den schlechten Antworten zu unterscheiden!
+:::

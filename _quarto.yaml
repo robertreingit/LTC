@@ -3,7 +3,7 @@ project:
 
 book:
   #sharing: [twitter,facebook]
-  downloads: [pdf,epub]
+  #downloads: [pdf,epub]
   title: "LTC NatWissCrew"
   author:
   - name: Dr. Bjoern Braunstein
@@ -12,20 +12,18 @@ book:
     affiliation: __German Sport University__ <br> Institute of Biomechanics and Orthopaedics <br> Institute of Movement- and Neuroscience
     affiliation-url: https://www.dshs-koeln.de
     orcid: 0000-0002-5173-8916
-  - name: 
-    email: gschaelte@ukaachende
-    affiliation: __University Hospital Aachen__ <br> Institute of Training and Computer Science
-    orcid: 0000-0002-3948-7050
+  - name: Dr. Robert Rein 
+    email: r.rein@dshs-koeln.de
+    affiliation: __German Sport University__ <br> Institute of Training and Computer Science
+  # orcid: 0000-0002-3948-7050
   date: "9/15/2022"
-#  logo: CST_blank.png
+  logo: logo.png
   chapters:
     - index.qmd
-#    - LTC-01.qmd
-#    - LTC-04.qmd
-#    - LTC-12.qmd
-#    - contact.qmd
-
-#bibliography: references.bib
+    - LTC-01.qmd
+    - LTC-04.qmd
+    - LTC-12.qmd
+    - contact.qmd
 
 format: 
   html:
@@ -35,6 +33,7 @@ format:
     code-copy: true
     citations-hover: true
     citation-location: document #margin
+
 bibliography: "lit.bib"
 csl: "job.csl"
 #csl: "gait-and-posture.csl"
