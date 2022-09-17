@@ -1,7 +1,5 @@
 # LTC-01 {.unnumbered}
-Hier der Braunstein mit seinen Infos
-
-@braunstein2010
+Hier der Braunstein mit seinen Infos ... Literatur geht auch @braunstein2010 und wird aus dem *.bib file gezogen !
 
 
 
