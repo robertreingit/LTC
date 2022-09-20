@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LTC NatWissCrew",
+    "section": "",
+    "text": "Dies ist ein Repository für den Studiengang LTC für die Kurse LTC4, LTCXY und LTC12. Sie finden hier vorbereitende Materialien die als Voraussetzung angesehen werden, sowie Zusatzmaterial zum nachlesen. Soweit rechtlich möglich sind die Materialien entweder direkt verfügbar oder per Links angezeigt."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contacts",
+    "section": "",
+    "text": "Contact me preferably via email. If this do not work for you try to get me on the phone in my office or show up in the lab or office during ‘normal academic hours’.\nInstitute of Biomechanics and Orthopaedics\nInstitute of Movement and Neuroscience\n\nDr. Bjoern Braunstein\nAm Sportpark Müngersdorf 6\n50933 Cologne\nGermany\n braunstein@dshs-koeln.de\n+49(221)4982.5621\nBuilding: NaWiMedi\nRoom: xxxx\n\n\nWarning: Paket 'leaflet' wurde unter R Version 4.1.3 erstellt"
+  },
+  {
+    "objectID": "contact.html#dr.-robert-rein",
+    "href": "contact.html#dr.-robert-rein",
+    "title": "Contacts",
+    "section": "Dr. Robert Rein",
+    "text": "Dr. Robert Rein\nInstitut für Trainingswissenschaft und Sportinformatik\nAbteilung Memmert\nAm Sportpark Müngersdorf 6\n50933 Köln\nGermany\n\nr.rein@dshs-koeln.de\n+49 221 4982-XXXX\nGebäude: NaWiMedi\nRaum: XXXX"
+  },
+  {
+    "objectID": "contact.html#dr.-seifriz",
+    "href": "contact.html#dr.-seifriz",
+    "title": "Contacts",
+    "section": "Dr. Seifriz",
+    "text": "Dr. Seifriz\nInstitut für Trainingswissenschaft und Sportinformatik\nAbteilung 2: Kognitions- und Sportspielforschung\nAm Sportpark Müngersdorf 6\n50933 Köln\nGermany\n\nseifriz@dshs-koeln.de\n+49 221 4982-4860\nGebäude: NaWiMedi\nRaum: 363"
+  },
+  {
+    "objectID": "LTC-01.html",
+    "href": "LTC-01.html",
+    "title": "LTC-01",
+    "section": "",
+    "text": "Braunstein, B., Arampatzis, A., Eysel, P., Brüggemann, G.-P., 2010.\nFootwear affects the gearing at the ankle and knee joints during\nrunning. Journal of Biomechanics 43, 2120–2125. https://doi.org/10.1016/j.jbiomech.2010.04.001"
+  },
+  {
+    "objectID": "LTC-04.html",
+    "href": "LTC-04.html",
+    "title": "LTC-04",
+    "section": "",
+    "text": "Video: https://www.youtube.com/watch?v=X_Mxya2Fis0\n\n\n\nVideo: https://www.youtube.com/watch?v=tyvEHQszZJs\n\n\n\nVideo: https://www.youtube.com/watch?v=YD8OLpvkHD8\n\n\n\n\n\n\nBitte folgende Packages installieren: “tidyverse” und “ggplot2”\n\n\n\n\n\n\n\n\n\nEinführung in R: https://methodenlehre.github.io/einfuehrung-in-R/index.html\n\n\n\n\n\n\nGrundlegendes Verständis der Kapitel 0 bis 2 wird erwartet."
+  },
+  {
+    "objectID": "LTC-04.html#readings",
+    "href": "LTC-04.html#readings",
+    "title": "LTC-04",
+    "section": "Readings",
+    "text": "Readings\nHealy, K. (2018). Data visualization: a practical introduction. Princeton University Press. https://socviz.co/\nNordmann, E., McAleer, P., Toivo, W., Paterson, H., & DeBruine, L. M. (2022). Data Visualization Using R for Researchers Who Do Not Use R. Advances in Methods and Practices in Psychological Science. https://doi.org/10.1177/25152459221074654\nPeng, R.D.: R programming für data science: https://bookdown.org/rdpeng/rprogdatascience/\nWickham, H.: R for data science: https://r4ds.had.co.nz/"
+  },
+  {
+    "objectID": "LTC-04.html#weitere-info-quellen",
+    "href": "LTC-04.html#weitere-info-quellen",
+    "title": "LTC-04",
+    "section": "Weitere Info-Quellen",
+    "text": "Weitere Info-Quellen\n\nTutorials zu R/RStudio (themenspezifisch)\nz.B. Datanovia: https://www.datanovia.com/en/\n\n\nForum für Fragen zu R und anderen Programmiersprachen\nz.B. Stack Overflow: https://stackoverflow.com\n\n\n\n\n\n\n“Such”-Workflow\n\n\n\n\nFrage zu R auf englisch googeln, z.B. “r cran create random csv”\nIn der Trefferliste nach Einträgen von “stackoverflow.com” suchen\nÖffnen und “clever” lesen!!\n\nEs erfordert etwas “Routine” die guten von den schlechten Antworten zu unterscheiden!"
+  },
+  {
+    "objectID": "LTC-12.html",
+    "href": "LTC-12.html",
+    "title": "LTC-12",
+    "section": "",
+    "text": "Rob und Bjoern"
+  }
+]
