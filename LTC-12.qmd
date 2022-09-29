@@ -1,3 +1,34 @@
 # LTC-12 {.unnumbered}
 
-Rob und Bjoern
+## Readings
+
+Hier dann einige Bücher welche man sich methodisch zu Herzen nehmen sollte bevor man sich in Modul 12 stürzt. Wie immer Kollege @robertson2013 oder der Herr @cutcliffe2012
+
+::: callout-important
+## Leistungsnachweis
+
+Die Note im Modul LTC12 ergibt sich aus drei Teilkomponenten.\
+- Projektpräsentation (00%)\
+- xyz (00%)
+:::
+
+## Abgabe der Leistungen
+
+Bitte alle Dokumente zur benotung inklusiv Rohdaten (\*.zip) in einer Email an die beiden Dozierenden [Dr. Rein](mailto:r.rein@dshs-koeln.de) und [Dr. Braunstein](mailto:braunstein@dshs-koeln.de) schicken.
+
+# Tools
+
+-   Prima Convertierung von Audio/ Video in verschiedene Formate\
+-   fuer Fortgeschrittene auch mit FFMPG
+
+## Programmming
+
+-   Link zum VS code bzw. VS codium
+-   Link zu Rstudio bzw. dem neuen Namen
+
+## Motion capture/analysis
+
+-   Link zu Mokka
+-   Link zu [Kinovea](https://www.kinovea.org) einem Tool mit dem Ihr ganz ohne Mühe die meisten Videoformate einsesen könnt und schon ziemlich viel an Auswertetools an die Hand bekommt.
+-   Link zum Vicon PlugIn Gait
+-   Link zu
